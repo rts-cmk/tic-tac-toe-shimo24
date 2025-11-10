@@ -1,0 +1,7 @@
+// for (let i =2; i <nummber;i++) {
+//     if (number % i===0) {
+//         return false
+//     }
+// }
+
+// return Math. max(...arryay);
